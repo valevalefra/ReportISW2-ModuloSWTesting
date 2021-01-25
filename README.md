@@ -1,12 +1,12 @@
 # ReportISW2-ModuloSWTesting
 
-##Bookkeeper
+## Bookkeeper
 
 Esecuzione Test: *mvn clean verify*
 Esecuzione Pit e generazioni relativi report: *mvn org.pitest:pitest-maven:mutationCoverage*
 
 
-##Avro
+## Avro
 
 Esecuzione Test: *mvn clean verify*
 Esecuzione Pit e generazioni relativi report: *mvn org.pitest:pitest-maven:mutationCoverage*
